@@ -7,6 +7,7 @@
 + Things mentioned on your personal statement
 + Why you chose the pieces being performed?
 + What do you know about those pieces / composers?
++ What could have improved your performance (afterwards)?
 
 #### More general
 
