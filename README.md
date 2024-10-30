@@ -18,6 +18,7 @@
 **All schools want you to be passionate about studying music!**
 
 ## GSMD
+### November 11th
 
 [https://www.gsmd.ac.uk/study-with-guildhall/music/music-auditions-interviews/wind-brass-percussion-auditions](https://www.gsmd.ac.uk/study-with-guildhall/music/music-auditions-interviews/wind-brass-percussion-auditions)
 
@@ -48,6 +49,7 @@ You may be asked to have a subsequent interview with one of the undergraduate ac
 + sight reading of two simultaneous different rhythms, to be sung and clapped
 
 ## RBC
+### November 19th
 
 [https://www.bcu.ac.uk/conservatoire/music/auditions/requirements](https://www.bcu.ac.uk/conservatoire/music/auditions/requirements)
 
@@ -64,6 +66,7 @@ This is also an opportunity for you to ask the panel questions about your Depart
 [Tips for your music audition](https://www.youtube.com/watch?v=BkLyuC7eMXs)
 
 ## RCM
+### December 2nd
 
 [https://www.rcm.ac.uk/woodwind/auditionrequirements/](https://www.rcm.ac.uk/woodwind/auditionrequirements/)
 
@@ -84,6 +87,7 @@ Some candidates may be referred for a short interview with the Head of Faculty. 
 [Auditioning at the Royal College of Music](https://www.youtube.com/watch?v=7lXxZOMAP-0)
 
 ## RNCM
+### November 4th
 
 [https://www.rncm.ac.uk/study-here/make-an-application/your-audition/rncm-school-of-wind-brass-and-percussion-audition-requirements/](https://www.rncm.ac.uk/study-here/make-an-application/your-audition/rncm-school-of-wind-brass-and-percussion-audition-requirements/)
 
