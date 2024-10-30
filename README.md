@@ -85,6 +85,8 @@ Some candidates may be referred for a short interview with the Head of Faculty. 
 
 ## RNCM
 
+[https://www.rncm.ac.uk/study-here/make-an-application/your-audition/rncm-school-of-wind-brass-and-percussion-audition-requirements/](https://www.rncm.ac.uk/study-here/make-an-application/your-audition/rncm-school-of-wind-brass-and-percussion-audition-requirements/)
+
 For those attending in person, your audition will also include an interview, giving the panel an opportunity to learn a little more about you and your future aspirations, whilst giving you the chance to ask any questions you might have about studying with us. You may also be asked to perform a quick study.
 
 #### YouTube
