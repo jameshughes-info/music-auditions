@@ -77,7 +77,7 @@ In some cases you may also be asked to perform scales, arpeggios or other techni
 Some candidates may be referred for a short interview with the Head of Faculty.  If so this will take place on the same day, normally within around an hour of the original audition, so candidates should make travel plans accordingly.  During this interview you may be asked to perform your audition repertoire again unaccompanied.
 
 #### YouTube
-+[Auditioning at the Royal College of Music](https://www.youtube.com/watch?v=7lXxZOMAP-0)
++ [Auditioning at the Royal College of Music](https://www.youtube.com/watch?v=7lXxZOMAP-0)
 
 ## RAM
 
