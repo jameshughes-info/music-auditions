@@ -18,6 +18,8 @@
 
 **All schools want you to be passionate about studying music!**
 
+<details>
+	<summary>RNCM</summary>
 ## RNCM
 ### November 4th
 
@@ -28,6 +30,7 @@ For those attending in person, your audition will also include an interview, giv
 #### YouTube
 + [Audition Tips from the RNCM](https://www.youtube.com/watch?v=aT-SnEpokmA)
 + [6 Tips for a Fantastic Conservatoire Audition](https://www.youtube.com/watch?v=eWD5EC2iFoA)
+</details>
 
 ## GSMD
 ### November 11th
