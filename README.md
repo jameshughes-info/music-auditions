@@ -113,4 +113,4 @@ You may be asked to have a subsequent interview with one of the undergraduate ac
 + sight reading of rhythms
 + sight reading of two simultaneous different rhythms, to be sung and clapped
 
-[Your audition at the Academy](https://royalacademyofmusic.sharepoint.com/sites/AdmissionsTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FAdmissionsTeam%2FShared%20Documents%2FCandidate%20Files%2FAudition%20Packs%2FYour%20audition%20at%20the%20Academy%2Epdf&parent=%2Fsites%2FAdmissionsTeam%2FShared%20Documents%2FCandidate%20Files%2FAudition%20Packs)
+[Your audition at the Academy](pdf/ram-your-audition.pdf)
