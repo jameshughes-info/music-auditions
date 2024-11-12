@@ -53,6 +53,9 @@ In addition to your two contrasting pieces, the audition will also comprise:
 
 [https://www.bcu.ac.uk/conservatoire/music/auditions/requirements](https://www.bcu.ac.uk/conservatoire/music/auditions/requirements)
 
+Undergraduate Woodwind candidates must perform two pieces (or movements) of different styles and periods of their own choice. Candidates will also be asked to play some scales and arpeggios in all major and minor keys and sight read.
+
+#### Interview
 As part of your audition there will be an informal interview. The panel will be interested to hear you talk about:
 
 + your artistic influences
@@ -60,6 +63,8 @@ As part of your audition there will be an informal interview. The panel will be 
 + your career objectives
 
 This is also an opportunity for you to ask the panel questions about your Department and what life will be like as a musician in Birmingham. If you are an undergraduate applicant, during your interview, as well as a selection of scales, we might ask you to play part of your audition piece(s) again.
+
+This will be an informal opportunity for us to work together and get to know you better as a musician and performer.
 
 #### YouTube
 + [Tips for your music audition](https://www.youtube.com/watch?v=BkLyuC7eMXs)
