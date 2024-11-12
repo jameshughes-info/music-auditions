@@ -20,7 +20,6 @@
 
 <details>
 	<summary>RNCM</summary>
-
 ## RNCM
 ### November 4th
 
@@ -32,7 +31,8 @@ For those attending in person, your audition will also include an interview, giv
 + [Audition Tips from the RNCM](https://www.youtube.com/watch?v=aT-SnEpokmA)
 + [6 Tips for a Fantastic Conservatoire Audition](https://www.youtube.com/watch?v=eWD5EC2iFoA)
 </details>
-
+<details>
+   <summary>GSMD</summary>
 ## GSMD
 ### November 11th
 
@@ -46,6 +46,7 @@ In addition to your two contrasting pieces, the audition will also comprise:
 
 #### YouTube
 + [Music Auditions at Guildhall](https://www.youtube.com/watch?v=NgMoaBfrfag)
+</details>
 
 ## RBC
 ### November 19th
@@ -84,6 +85,7 @@ Some candidates may be referred for a short interview with the Head of Faculty. 
 + [Auditioning at the Royal College of Music](https://www.youtube.com/watch?v=7lXxZOMAP-0)
 
 ## RAM
+### December 6th
 
 [https://www.ram.ac.uk/study/departments/woodwind/audition-requirements](https://www.ram.ac.uk/study/departments/woodwind/audition-requirements)
 
@@ -98,3 +100,5 @@ You may be asked to have a subsequent interview with one of the undergraduate ac
 + identification of intervals
 + sight reading of rhythms
 + sight reading of two simultaneous different rhythms, to be sung and clapped
+
+[Your audition at the Academy](https://royalacademyofmusic.sharepoint.com/sites/AdmissionsTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FAdmissionsTeam%2FShared%20Documents%2FCandidate%20Files%2FAudition%20Packs%2FYour%20audition%20at%20the%20Academy%2Epdf&parent=%2Fsites%2FAdmissionsTeam%2FShared%20Documents%2FCandidate%20Files%2FAudition%20Packs)
