@@ -49,7 +49,7 @@ In addition to your two contrasting pieces, the audition will also comprise:
 </details>
 
 ## RBC
-### November 19th ( Warm-up Time 9:30am)
+### November 19th (Warm-up Time 9:30am)
 
 [https://www.bcu.ac.uk/conservatoire/music/auditions/requirements](https://www.bcu.ac.uk/conservatoire/music/auditions/requirements)
 
