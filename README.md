@@ -89,10 +89,13 @@ Some candidates may be referred for a short interview with the Head of Faculty. 
 
 [https://www.ram.ac.uk/study/departments/woodwind/audition-requirements](https://www.ram.ac.uk/study/departments/woodwind/audition-requirements)
 
-In addition to your two contrasting pieces, you may be:
++ Two contrasting pieces of your own choice.
+    + A piece can be a single movement, for example from a concerto, sonata or suite.
+    + Pieces should be performed with accompaniment (unless written to be performed as a solo item).
++ You may be asked to play scales, arpeggios, etc to ABRSM Grade 8 standard.
++ You may be given sight reading or quick study tests.
 
-+ asked to play scales, arpeggios, etc to ABRSM Grade 8 standard
-+ given sight reading or quick study tests
+#### Undergraduate applicants
 
 You may be asked to have a subsequent interview with one of the undergraduate academic staff, during which you can discuss your study plans. As part of the interview you may be asked some questions about a short extract of music, and be asked to take some aural skills assessments consisting of a sight-singing test and some of the following:
 
