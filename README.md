@@ -74,6 +74,10 @@ This will be an informal opportunity for us to work together and get to know you
 
 [https://www.rcm.ac.uk/woodwind/auditionrequirements/](https://www.rcm.ac.uk/woodwind/auditionrequirements/)
 
+The time shown on UCAS Conservatoires is your audition time. You should plan to arrive at the RCM at least 30 minutes before this, to allow time to check in and warm up. We advise allowing plenty of extra time for travelling into or across London.
+
+When you arrive at the RCM, you should find out from the steward in the entrance hall where your audition will take place. You will have 20 minutes of warm-up time with your accompanist prior to your audition. We are not able to provide practice rooms for you to use before this.
+
 Woodwind auditions last approximately 20 minutes. Candidates will be directed by the panel to perform their audition pieces or particular extracts. We cannot say in advance which extracts you might be asked to perform, so you should prepare all of the materials in full. You will be required to take a sight-reading test and there will be a short interview.
 
 Typical questions you may be asked during your audition include:
