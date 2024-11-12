@@ -21,7 +21,7 @@
 <details>
 	<summary>RNCM</summary>
 ## RNCM
-### November 4th
+### November 4th (1:40pm)
 
 [https://www.rncm.ac.uk/study-here/make-an-application/your-audition/rncm-school-of-wind-brass-and-percussion-audition-requirements/](https://www.rncm.ac.uk/study-here/make-an-application/your-audition/rncm-school-of-wind-brass-and-percussion-audition-requirements/)
 
@@ -34,7 +34,7 @@ For those attending in person, your audition will also include an interview, giv
 <details>
    <summary>GSMD</summary>
 ## GSMD
-### November 11th
+### November 11th (4:00pm)
 
 [https://www.gsmd.ac.uk/study-with-guildhall/music/music-auditions-interviews/wind-brass-percussion-auditions](https://www.gsmd.ac.uk/study-with-guildhall/music/music-auditions-interviews/wind-brass-percussion-auditions)
 
@@ -49,7 +49,7 @@ In addition to your two contrasting pieces, the audition will also comprise:
 </details>
 
 ## RBC
-### November 19th
+### November 19th (9:30am)
 
 [https://www.bcu.ac.uk/conservatoire/music/auditions/requirements](https://www.bcu.ac.uk/conservatoire/music/auditions/requirements)
 
@@ -70,7 +70,7 @@ This will be an informal opportunity for us to work together and get to know you
 + [Tips for your music audition](https://www.youtube.com/watch?v=BkLyuC7eMXs)
 
 ## RCM
-### December 2nd
+### December 2nd (12:40pm)
 
 [https://www.rcm.ac.uk/woodwind/auditionrequirements/](https://www.rcm.ac.uk/woodwind/auditionrequirements/)
 
@@ -94,7 +94,7 @@ Some candidates may be referred for a short interview with the Head of Faculty. 
 + [Auditioning at the Royal College of Music](https://www.youtube.com/watch?v=7lXxZOMAP-0)
 
 ## RAM
-### December 6th
+### December 6th (3:20pm)
 
 [https://www.ram.ac.uk/study/departments/woodwind/audition-requirements](https://www.ram.ac.uk/study/departments/woodwind/audition-requirements)
 
