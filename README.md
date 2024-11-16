@@ -36,16 +36,8 @@ For those attending in person, your audition will also include an interview, giv
 ## GSMD
 ### November 11th (4:00pm)
 
-[https://www.gsmd.ac.uk/study-with-guildhall/music/music-auditions-interviews/wind-brass-percussion-auditions](https://www.gsmd.ac.uk/study-with-guildhall/music/music-auditions-interviews/wind-brass-percussion-auditions)
-
-In addition to your two contrasting pieces, the audition will also comprise:
-
-+ sight reading
-+ working on one of the audition pieces with a member of the panel
-+ an interview with a senior member of staff
-
-#### YouTube
-+ [Music Auditions at Guildhall](https://www.youtube.com/watch?v=NgMoaBfrfag)
++ Conditional Offer received: [Offer Letter](pdf/gsmd-offer.pdf)
++ Offer Handbook: [https://resources.gsmd.ac.uk/ego/2025/offerhandbook.pdf](https://resources.gsmd.ac.uk/ego/2025/offerhandbook.pdf)
 </details>
 
 ## RBC
