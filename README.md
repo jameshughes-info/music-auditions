@@ -20,6 +20,7 @@
 
 <details>
 	<summary>RNCM</summary>
+
 ## RNCM
 ### November 4th (1:40pm)
 
@@ -33,6 +34,7 @@ For those attending in person, your audition will also include an interview, giv
 </details>
 <details>
    <summary>GSMD</summary>
+
 ## GSMD
 ### November 11th (4:00pm)
 
