@@ -41,6 +41,8 @@ For those attending in person, your audition will also include an interview, giv
 + Conditional Offer received: [Offer Letter](pdf/gsmd-offer.pdf)
 + Offer Handbook: [https://resources.gsmd.ac.uk/ego/2025/offerhandbook.pdf](https://resources.gsmd.ac.uk/ego/2025/offerhandbook.pdf)
 </details>
+<details>
+   <summary>RBC</summary>
 
 ## RBC
 ### November 19th (Warm-up Time 9:30am)
@@ -62,6 +64,7 @@ This will be an informal opportunity for us to work together and get to know you
 
 #### YouTube
 + [Tips for your music audition](https://www.youtube.com/watch?v=BkLyuC7eMXs)
+</details>
 
 ## RCM
 ### December 2nd (12:40pm)
