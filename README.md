@@ -24,13 +24,7 @@
 ## RNCM
 ### November 4th (1:40pm)
 
-[https://www.rncm.ac.uk/study-here/make-an-application/your-audition/rncm-school-of-wind-brass-and-percussion-audition-requirements/](https://www.rncm.ac.uk/study-here/make-an-application/your-audition/rncm-school-of-wind-brass-and-percussion-audition-requirements/)
-
-For those attending in person, your audition will also include an interview, giving the panel an opportunity to learn a little more about you and your future aspirations, whilst giving you the chance to ask any questions you might have about studying with us. You may also be asked to perform a quick study.
-
-#### YouTube
-+ [Audition Tips from the RNCM](https://www.youtube.com/watch?v=aT-SnEpokmA)
-+ [6 Tips for a Fantastic Conservatoire Audition](https://www.youtube.com/watch?v=eWD5EC2iFoA)
++ Unsuccessful application
 </details>
 <details>
    <summary>GSMD</summary>
@@ -47,23 +41,7 @@ For those attending in person, your audition will also include an interview, giv
 ## RBC
 ### November 19th (Warm-up Time 9:30am)
 
-[https://www.bcu.ac.uk/conservatoire/music/auditions/requirements](https://www.bcu.ac.uk/conservatoire/music/auditions/requirements)
-
-Undergraduate Woodwind candidates must perform two pieces (or movements) of different styles and periods of their own choice. Candidates will also be asked to play some scales and arpeggios in all major and minor keys and sight read.
-
-#### Interview
-As part of your audition there will be an informal interview. The panel will be interested to hear you talk about:
-
-+ your artistic influences
-+ your inspiration to be a musician
-+ your career objectives
-
-This is also an opportunity for you to ask the panel questions about your Department and what life will be like as a musician in Birmingham. If you are an undergraduate applicant, during your interview, as well as a selection of scales, we might ask you to play part of your audition piece(s) again.
-
-This will be an informal opportunity for us to work together and get to know you better as a musician and performer.
-
-#### YouTube
-+ [Tips for your music audition](https://www.youtube.com/watch?v=BkLyuC7eMXs)
++ Conditional Offer received
 </details>
 
 ## RCM
