@@ -43,6 +43,8 @@
 
 + Conditional Offer received
 </details>
+<details>
+   <summary>RCM</summary>
 
 ## RCM
 ### December 2nd (12:40pm)
@@ -67,6 +69,7 @@ Some candidates may be referred for a short interview with the Head of Faculty. 
 
 #### YouTube
 + [Auditioning at the Royal College of Music](https://www.youtube.com/watch?v=7lXxZOMAP-0)
+</details>
 
 ## RAM
 ### December 6th (3:20pm)
