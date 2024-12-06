@@ -70,6 +70,8 @@ Some candidates may be referred for a short interview with the Head of Faculty. 
 #### YouTube
 + [Auditioning at the Royal College of Music](https://www.youtube.com/watch?v=7lXxZOMAP-0)
 </details>
+<details>
+   <summary>RCM</summary>
 
 ## RAM
 ### December 6th (3:20pm)
@@ -92,3 +94,4 @@ You may be asked to have a subsequent interview with one of the undergraduate ac
 + sight reading of two simultaneous different rhythms, to be sung and clapped
 
 [Your audition at the Academy](pdf/ram-your-audition.pdf)
+</details>
