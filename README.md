@@ -71,7 +71,7 @@ Some candidates may be referred for a short interview with the Head of Faculty. 
 + [Auditioning at the Royal College of Music](https://www.youtube.com/watch?v=7lXxZOMAP-0)
 </details>
 <details>
-   <summary>RCM</summary>
+   <summary>RAM</summary>
 
 ## RAM
 ### December 6th (3:20pm)
