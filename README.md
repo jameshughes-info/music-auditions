@@ -95,3 +95,13 @@ You may be asked to have a subsequent interview with one of the undergraduate ac
 
 [Your audition at the Academy](pdf/ram-your-audition.pdf)
 </details>
+
+## University Applications
+
+| University  | Course | Offer | Notes |
+|:------------|:------:|:-----:|:------|
+| Leeds       | [Music (Performance) BMus](https://courses.leeds.ac.uk/j772/music-performance-bmus) | |
+| Manchester  | [MusB Music](https://www.manchester.ac.uk/study/undergraduate/courses/2025/02397/musb-music/) | AAB | (A in Music) |
+| Sheffield   | [Music BMus](https://www.sheffield.ac.uk/undergraduate/courses/2025/music-bmus) | ABB | |
+| Southampton | [Music (BA)](https://www.southampton.ac.uk/courses/music-degree-ba) | | Interview, February 10th |
+| Surrey      | [BMus Music](https://www.surrey.ac.uk/undergraduate/music) | | Interview, March 5th |
